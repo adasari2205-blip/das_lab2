@@ -1,0 +1,10 @@
+Data : 1, 2
+and : 2
+are : 1
+data : 2
+helps : 2
+is : 2
+problems : 2
+solve : 2
+structures : 1
+useful : 1, 2
